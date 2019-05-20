@@ -1,4 +1,6 @@
 # Invoke AutoShutdown
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fdnewsholme%2FInvoke-Autoshutdown.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fdnewsholme%2FInvoke-Autoshutdown?ref=badge_shield)
+
 
 This script shutsdown/starts up resources based on the tags assigned to them in Azure.
 
@@ -74,3 +76,7 @@ The easiest way to write the schedule is to say it first in words as a list of t
 ## Scheduling RunBook in Azure.
 
 The run book should be scheduled to run once per hour.
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fdnewsholme%2FInvoke-Autoshutdown.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fdnewsholme%2FInvoke-Autoshutdown?ref=badge_large)
